@@ -12,6 +12,10 @@ both Server1 and Server2. 3)Upload the PHP files to the HTML directory on both s
 databases for thePatientRMS system on both servers. 5)Set up Azure Traffic Manager to distribute traffic
 between Server1 and Server2. 6)Configure the Azure Monitoring Service alert rule for resource monitoring.
 The system is set to send email and SMS notifications when the resource usage exceeds 80%.
+
+for id and pass :
+![id pass](https://github.com/DEVESH7k/PatientRMS-PHP/assets/129754599/d5ca21b7-c775-48f0-bb65-7331a6e240f4)
+
 ![image-002](https://github.com/DEVESH7k/PatientRMS-PHP/assets/129754599/6358d26d-b5ee-4e95-a81e-d517f2813a8a)
 ![image-003](https://github.com/DEVESH7k/PatientRMS-PHP/assets/129754599/8d031e9e-d763-4def-88a8-eb574046bd4a)
 ![image-004](https://github.com/DEVESH7k/PatientRMS-PHP/assets/129754599/f1f93c02-efc2-4eba-ba6f-2b9b541166fd)
